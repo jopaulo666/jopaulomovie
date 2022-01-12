@@ -1,0 +1,1 @@
+INDEX VERSION 1.131+/home/bruna/Documentos/STS-Workspace/dev-superior/jopaulomovie/.metadata/.plugins/org.eclipse.jdt.core
