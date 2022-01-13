@@ -1,0 +1,5 @@
+package com.jopaulo.jopaulomovie.entities;
+
+public class Score {
+
+}
