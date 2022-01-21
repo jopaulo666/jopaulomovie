@@ -45,7 +45,6 @@ INDEX VERSION 1.131+/home/bruna/Documentos/STS-Workspace/dev-superior/jopaulomov
 1238752262.index
 1185169742.index
 3334121039.index
-1476245916.index
 3340672104.index
 1153168531.index
 1073160033.index
